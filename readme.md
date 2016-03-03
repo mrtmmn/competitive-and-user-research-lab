@@ -74,3 +74,8 @@ The competitive analysis should look something like this, depending on what meth
 - [Defragmenting User Research](http://alistapart.com/article/seeing-the-elephant-defragmenting-user-research)
 - [Dos and Don'ts of User Research](starter-assets/ux-design-dos-and-donts.pdf)
 - [Competitor Analysis Template](http://blog.clientheartbeat.com/competitor-analysis-template/)
+- 
+
+
+
+https://docs.google.com/spreadsheets/d/1B9CywJX9EwO8OkD6CfphIdEmN5tpL2n3jtaxBs689QQ/edit?usp=sharing
